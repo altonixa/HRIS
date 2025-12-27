@@ -1,0 +1,98 @@
+COMPLETE FEATURES OF A FULL HRIS
+SYSTEM
+Below is the industry standard feature list of a modern cloud-based HRIS used by SMEs and
+large companies.
+A. COMPANY & USER MANAGEMENT
+1. Multi-Company / Multi-Tenant Setup (Cloud-based)
+ Each company has its own secure space
+ Admins can manage multiple client companies
+ Role-based access for HR, Manager, Employee
+2. User Roles & Permissions
+ Super Admin
+ HR Manager
+ Department Head
+ Accountant
+ Normal Employee
+B. EMPLOYEE INFORMATION SYSTEM
+3. Employee Records
+ Personal details
+ Contact information
+ Emergency contacts
+ Contract details
+ Job position & salary
+ Education & documents (CV, certificates)
+ Next of kin
+4. Digital Document Storage
+ Upload ID cards
+ Work contracts
+ Payslips
+ Company documents
+C. ATTENDANCE & TIME MANAGEMENT
+5. Attendance Tracking
+ Manual clock-in/out
+ QR code clocking
+ GPS mobile attendance
+ Late arrivals / early exit tracking
+6. Shift & Schedule Management
+ Create shifts
+ Assign to employees
+ Track shift compliance
+7. Leave Management
+ Annual leave
+ Sick leave
+ Maternity/Paternity
+ Custom leave types
+ Approval workflow
+D. PAYROLL MANAGEMENT
+8. Payroll System
+ Salary structure
+ Allowances & deductions
+ Automated monthly payroll
+ Tax, CNPS, and pension deductions
+ Overtime calculations
+ Loans & advances
+ Payslip generation (PDF)
+9. Payment Integrations (Optional)
+ Mobile Money
+ Bank transfer APIs
+E. PERFORMANCE & TRAINING
+10. Performance Management
+ KPIs
+ Monthly/Quarterly appraisals
+ Behavioural evaluation
+ Promotion recommendations
+11. Training & Certifications
+ Training calendar
+ Employee skill tracking
+ Certificates upload
+F. RECRUITMENT MODULE
+12. Job Posting
+ Create job openings
+ Share public job link
+13. Applicant Tracking (ATS)
+ Manage applications
+ Select / Reject / Shortlist
+ Schedule interviews
+G. REPORTS & ANALYTICS
+14. HR Dashboards
+ Employee statistics
+ Attendance insights
+ Payroll summaries
+ Department performance
+15. PDF/Excel Reports
+ Employee list
+ Leave report
+ Payroll report
+ Attendance report
+H. SYSTEM ADMIN FEATURES
+16. Audit Logs
+ Track every action: who did what
+17. Notifications & Emails
+ Leave approval notifications
+ Payroll alerts
+ Upcoming contract expiry alerts
+18. Settings
+ Departments
+ Positions
+ Company structure
+All this can range at a cost of 700,000 for a complete system inplmentation
