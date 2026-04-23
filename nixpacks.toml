@@ -1,0 +1,7 @@
+# nixpacks.toml configuration file for PHP extensions
+
+[php]
+extensions = ["gd"]
+
+[laravel]
+environment = "production"
