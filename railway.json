@@ -1,0 +1,1 @@
+{\n  "build": {\n    "env": {\n      "PHP": "7.4",\n      "GD": "enabled"\n    }\n  }\n}
